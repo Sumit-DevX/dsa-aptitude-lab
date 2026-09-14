@@ -1,0 +1,76 @@
+
+Here are the most commonly used Python string methods, grouped by purpose:
+
+## Case Conversion
+
+```python
+s = "hello world"
+s.upper()        # "HELLO WORLD"
+s.lower()        # "hello world"
+s.capitalize()   # "Hello world"
+s.title()        # "Hello World"
+s.swapcase()     # "HELLO WORLD"
+```
+
+## Whitespace & Stripping
+
+```python
+s = "  hello  "
+s.strip()        # "hello"
+s.lstrip()       # "hello  "
+s.rstrip()       # "  hello"
+```
+
+## Splitting & Joining
+
+```python
+s = "apple,banana,cherry"
+s.split(",")     # ['apple', 'banana', 'cherry']
+s.split()        # splits on whitespace by default
+
+", ".join(["apple", "banana", "cherry"])  # "apple, banana, cherry"
+```
+
+## Searching & Replacing
+
+```python
+s = "hello world"
+s.replace("world", "python")   # "hello python"
+s.find("world")                # 5  (returns -1 if not found)
+s.count("l")                   # 3
+s.startswith("hello")          # True
+s.endswith("world")            # True
+```
+
+## Checking (return `True`/`False`)
+
+```python
+s = "abc123"
+s.isalpha()    # False  (all letters?)
+s.isdigit()    # False  (all digits?)
+s.isalnum()    # True   (letters + digits?)
+s.isspace()    # False  (all whitespace?)
+s.isupper()    # False  (all uppercase?)
+s.islower()    # False  (all lowercase?)
+```
+
+## Formatting & Padding
+
+```python
+s = "42"
+s.zfill(5)     # "00042"
+s.center(10)   # "   42    "
+s.ljust(10)    # "42        "
+s.rjust(10)    # "        42"
+```
+
+## Prefix / Suffix (Python 3.9+)
+
+```python
+s = "hello_world"
+s.removeprefix("hello_")   # "world"
+s.removesuffix("_world")   # "hello"
+```
+
+**Key thing to remember:** All string methods return a **new string** — the original is never modified (strings are immutable in Python). This is the opposite of `list.sort()`, which modifies in place.
+
