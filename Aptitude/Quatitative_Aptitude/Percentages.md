@@ -123,3 +123,163 @@ Whenever you see a percentage, ask yourself:
 For example:
 
 **40% → 40 out of 100 → 40/100**
+
+# Percent from Fraction Models
+
+## Converting a Fraction into a Percentage
+
+Suppose there is a square divided into **10 equal vertical sections**, and **4 sections are shaded**.
+
+There are **10 sections in total**, and **4 are shaded**.
+
+So the fraction of the square that is shaded is:
+
+**4/10**
+
+To convert this fraction into a percentage, we need to convert the **denominator into 100**, because percent means **out of 100**.
+
+The denominator is `10`.
+
+To make `10` into `100`, we multiply it by `10`:
+
+**10 × 10 = 100**
+
+Whatever we multiply the denominator by, we must also multiply the numerator by the **same number**.
+
+So:
+
+**4 × 10 = 40**
+
+Therefore:
+
+**4/10 = 40/100**
+
+And since `40/100` means **40 out of 100**:
+
+**40/100 = 40%**
+
+Therefore:
+
+**4/10 = 40%**
+
+---
+
+## The Multiplier Depends on the Denominator
+
+The denominator does **not** always have to be `10`.
+
+It depends on the number of equal sections in the whole.
+
+The goal is always to change the denominator into **100**.
+
+For example, suppose there are **25 equal boxes**, and **12 of them are shaded**.
+
+The shaded portion is:
+
+**12/25**
+
+Now we need to change the denominator `25` into `100`.
+
+To do that:
+
+**25 × 4 = 100**
+
+So we also multiply the numerator by `4`:
+
+**12 × 4 = 48**
+
+Therefore:
+
+**12/25 = 48/100**
+
+And:
+
+**48/100 = 48%**
+
+So:
+
+**12/25 = 48%**
+
+---
+
+## Another Example
+
+Suppose there are **20 equal sections**, and **6 are shaded**.
+
+The shaded portion is:
+
+**6/20**
+
+To convert the denominator to `100`:
+
+**20 × 5 = 100**
+
+So we multiply the numerator by `5` as well:
+
+**6 × 5 = 30**
+
+Therefore:
+
+**6/20 = 30/100**
+
+And:
+
+**30/100 = 30%**
+
+So:
+
+**6/20 = 30%**
+
+---
+
+## The Method
+
+When converting a fraction into a percentage using a fraction model:
+
+1. **Count the total number of equal sections.**
+   This is the denominator.
+
+2. **Count the shaded sections.**
+   This is the numerator.
+
+3. **Write the fraction.**
+
+4. **Find what number the denominator needs to be multiplied by to become 100.**
+
+5. **Multiply the numerator by the same number.**
+
+6. The resulting fraction will have `100` as its denominator.
+
+7. The numerator is then the percentage.
+
+### Example
+
+**7/25**
+
+Make the denominator `100`:
+
+**25 × 4 = 100**
+
+Multiply the numerator by `4`:
+
+**7 × 4 = 28**
+
+Therefore:
+
+**7/25 = 28/100 = 28%**
+
+---
+
+## Key Idea
+
+The important thing is **not the original denominator**.
+
+It can be `10`, `20`, `25`, or another number.
+
+What matters is:
+
+> **Find the number that multiplies the denominator to make 100, then multiply the numerator by that same number.**
+
+### In short:
+
+**Fraction → Make denominator 100 → Same multiplication to numerator → Percentage**
