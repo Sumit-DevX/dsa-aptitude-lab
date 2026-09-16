@@ -283,3 +283,108 @@ What matters is:
 ### In short:
 
 **Fraction → Make denominator 100 → Same multiplication to numerator → Percentage**
+
+# Finding the Whole with a Tape Diagram
+
+## Example
+
+Keisha can run **170 meters in one minute today**.
+
+This is **125%** of the distance she could run in one minute **three years ago**.
+
+We want to find:
+
+> How far could Keisha run in one minute three years ago?
+
+---
+
+## Step 1: Understand What 125% Means
+
+The distance Keisha could run three years ago represents **100%**.
+
+Today, she can run **125%** of that distance.
+
+So the **170 meters** that she can run today represents **125%** of her previous distance.
+
+We can rewrite `125%` as a fraction:
+
+**125% = 125/100**
+
+Now simplify the fraction by dividing both the numerator and denominator by `25`:
+
+**125/100 = 5/4**
+
+So:
+
+**170 meters = 5/4 of the distance she could run three years ago.**
+
+---
+
+## Step 2: Understand the Tape Diagram
+
+If the whole distance from three years ago is **100%**, then:
+
+**100% = 4/4**
+
+And today:
+
+**125% = 5/4**
+
+So the **170 meters** represents **5/4**.
+
+We want to find the value of **4/4**, because that represents the original whole.
+
+---
+
+## Step 3: Find the Value of One Fourth
+
+Since **5/4 = 170 meters**, we can divide `170` by `5` to find the value of one fourth.
+
+**170 ÷ 5 = 34**
+
+So:
+
+**1/4 = 34 meters**
+
+Each fourth represents **34 meters**.
+
+---
+
+## Step 4: Find the Whole
+
+The original distance is **4/4**.
+
+Since each fourth is `34 meters`:
+
+**34 × 4 = 136**
+
+Therefore:
+
+**4/4 = 136 meters**
+
+So Keisha could run:
+
+**136 meters in one minute three years ago.**
+
+---
+
+## Key Idea
+
+When a given amount represents a percentage greater than `100%`:
+
+1. Convert the percentage into a fraction.
+2. Simplify the fraction.
+3. Use the given amount to find the value of one part.
+4. Multiply by the number of parts that make up the whole.
+
+### In this example:
+
+**125% → 125/100 → 5/4**
+
+**170 ÷ 5 = 34**
+
+**34 × 4 = 136**
+
+**Answer: 136 meters**
+
+![Finding the whole with a tape diagram](tape_diagram.png)
